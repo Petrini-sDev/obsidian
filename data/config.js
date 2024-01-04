@@ -1,11 +1,11 @@
 export const meta = {
-  title: 'LeBron James - Web Developer and Designer',
-  description: 'Hey, I\'m LeBron. I\'m a web developer and designer building things people love.'
+  title: 'Stefano Petrini - Web Developer and Software Developer',
+  description: 'Hey, I\'m Stefano. I\'m currently enrolled in Seneca College\'s Computer Programming and Analysis Program.'
 }
 
 export const hero = {
-  title: "Hey there! I'm LeBron James.",
-  desc: "I'm a web developer and designer building things people love."
+  title: "Hey there! I'm Stefano Petrini.",
+  desc: "I'm a Software developer student building things people love."
 };
 
 export const projects = {
@@ -13,22 +13,22 @@ export const projects = {
   desc: "Here are some of my favorite projects that I've worked on.",
   projects: [
     {
-      title: 'Lakers Official',
-      description: 'Home to the Los-Angeles Lakers',
-      link: 'https://lakers.com',
-      github: ''
+      title: 'BlackJack Website',
+      description: 'A website demonstrating the game BlackJack',
+      link: 'https://calm-duckanoo-4e1c93.netlify.app/index.html',
+      github: 'Petrini-sDev/Web222-Final-Assesment'
     },
     {
-      title: 'Cool App',
-      description: 'A cool app!',
-      link: 'https://lebronscoolapp.com',
-      github: 'theking-lbj/cool-app'
+      title: 'Employee Management System',
+      description: 'A Employee Management System software that I developed in C++',
+      link: '',
+      github: 'Petrini-sDev/Employee-Management-System'
     },
     {
-      title: 'Another app',
-      description: 'Another app!',
-      link: 'https://anotherlebronapp.com',
-      github: 'theking-lbj/another-app'
+      title: 'C String Library',
+      description: 'Recreated the string library in C',
+      link: '',
+      github: 'Petrini-sDev/'
     }
   ]
 };
@@ -36,22 +36,24 @@ export const projects = {
 export const stack = {
   title: 'My Stack',
   stack: [
+    'C',
+    'C++',
+    'Python',
     'HTML',
     'CSS',
     'JavaScript',
-    'Typescript',
     'React',
     'NextJS',
+    'MongoDB',
     'TailwindCSS',
-    'Firebase',
+    'SQL',
     'Git'
   ]
 };
 
 export const contact = {
   title: 'Contact Me',
-  email: 'lebron@gmail.com',
-  github: 'theking-lbj',
-  dribbble: 'theking-lbj',
-  linkedin: 'theking-lbj'
+  email: 'stef.petrini29@gmail.com',
+  github: 'Petrini-sDev',
+  linkedin: 'stefanopetrini'
 };
