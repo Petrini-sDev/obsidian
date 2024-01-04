@@ -28,7 +28,7 @@ export const projects = {
       title: 'C String Library',
       description: 'Recreated the string library in C',
       link: '',
-      github: 'Petrini-sDev/'
+      github: 'Petrini-sDev/C-String-Library'
     }
   ]
 };
