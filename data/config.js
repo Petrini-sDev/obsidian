@@ -1,11 +1,11 @@
 export const meta = {
-  title: 'Stefano Petrini - Web Developer and Software Developer',
+  title: 'Stefano Petrini - Software Developer',
   description: 'Hey, I\'m Stefano. I\'m currently enrolled in Seneca College\'s Computer Programming and Analysis Program.'
 }
 
 export const hero = {
   title: "Hey there! I'm Stefano Petrini.",
-  desc: "I'm a Software developer student building things people love."
+  desc: "I'm a 2nd Year Software developer student enrolled at Seneca College building things people love."
 };
 
 export const projects = {
