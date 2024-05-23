@@ -14,7 +14,7 @@ export const projects = {
   projects: [
     {
       title: 'PokeDex Website',
-      description: 'A website demonstrating the use of a pokeapi and showing the pokemon in the pokedex',
+      description: 'A website built using react and next js demonstrating the use of a pokeapi and showing the pokemon in the pokedex',
       link: 'https://poke-dex-gilt.vercel.app/',
       github: 'Petrini-sDev/PokeDex'
     },
