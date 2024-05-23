@@ -13,10 +13,10 @@ export const projects = {
   desc: "Here are some of my favorite projects that I've worked on.",
   projects: [
     {
-      title: 'BlackJack Website',
-      description: 'A website demonstrating the game BlackJack',
-      link: 'https://calm-duckanoo-4e1c93.netlify.app/index.html',
-      github: 'Petrini-sDev/Web222-Final-Assesment'
+      title: 'PokeDex Website',
+      description: 'A website demonstrating the use of a pokeapi and showing the pokemon in the pokedex',
+      link: 'https://poke-dex-gilt.vercel.app/',
+      github: 'Petrini-sDev/PokeDex'
     },
     {
       title: 'Employee Management System',
