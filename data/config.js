@@ -5,7 +5,7 @@ export const meta = {
 
 export const hero = {
   title: "Hey there! I'm Stefano.",
-  desc: "I'm a 2nd Year Software developer student enrolled at Seneca College building things people love."
+  desc: "I'm a 3rd Year Software developer student enrolled at Seneca College building things people love."
 };
 
 export const projects = {
